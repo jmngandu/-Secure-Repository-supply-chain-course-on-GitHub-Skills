@@ -16,7 +16,7 @@
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 GitHub helps you secure your supply chain, from understanding the dependencies in your environment, to knowing about vulnerabilities in those dependencies and patching them.
@@ -39,7 +39,7 @@ GitHub helps you secure your supply chain, from understanding the dependencies i
 
 </details>
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Review and add dependencies using dependency graph</h2></summary>
 
 _Welcome to "Secure your repository's supply chain"! :wave:_
